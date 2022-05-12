@@ -1,0 +1,36 @@
+.bloc_accueil{
+background-color:rgb(250,244,224);
+}
+
+h2 {
+    font-family: 'sacramento' , cursive;
+    font-size: 3rem;
+    text-decoration:underline 3px rgb(217,163,154);
+    text-underline-position:from-font;
+    font-weight: 100;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(250,244,224);
+    border-radius: 25px 25px 0px 0px;
+}
+.presentation {
+    
+    font-family: 'Indie Flower', cursive; 
+    font-size: medium;
+    margin-left: 20px;
+
+    .presentation_1 {   
+        width: 80%;
+    } 
+    .presentation_2{
+        width: 70%;
+    }
+    .presentation_3 {
+        width: 60%;
+        margin-bottom: 0;
+    }
+    
+}
+  
+
+    
